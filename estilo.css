@@ -1,0 +1,24 @@
+﻿
+*{
+margin:0;
+padding: 0;
+
+}
+body{
+background:#237670;
+color:black;
+}
+p,h1{
+color:white;
+}
+marca{
+color:green;
+}
+.remarcar{
+color:yellow;
+}
+div {
+height:300px;
+width:40%;
+background:#594096;
+}
